@@ -18,7 +18,7 @@ SCRAP_PAGES_LIMIT = 2
 
 async def soup_parse(url: str, **kwargs) -> BeautifulSoup:
     """
-    Create a BeautifulSoup object from page response
+    Creates a BeautifulSoup object from page response
     """
     async with aiohttp.ClientSession() as session:
         async with session.get(url, params=kwargs) as response:
@@ -29,7 +29,7 @@ async def soup_parse(url: str, **kwargs) -> BeautifulSoup:
 
 async def scrap_business_detail(url: str, existing_data: dict) -> dict:
     """
-    Scrap specific detail business page
+    Scraps specific detail business page
     """ 
 
     soup_business_detail = await soup_parse(url=url)
@@ -134,19 +134,19 @@ async def scrap_businesses(category: str, location: str) -> list[dict]:
 
 
 async def main():
-    # category: str = str(input("Category name: "))
-    category = "Movers"
-    location = "San Francisco, CA"
+    category: str = str(input("Category: "))
+    location: str = str(input("Location: "))
 
+    start = perf_counter()
+    print("Program started...")
     businesses_data = await scrap_businesses(category=category, location=location)
 
     # Write data to JSON file
     with open(RESULTS_FILE_NAME, "w") as file:
         json.dump(businesses_data, file, ensure_ascii=False, indent=4)
     print(f"Results successfully saved to {RESULTS_FILE_NAME}")
+    print(f"Program execution took: {perf_counter() - start} seconds.")
 
 
 if __name__ == "__main__":
-    start = perf_counter()
     asyncio.run(main())
-    print(f"Program execution took: {perf_counter() - start} seconds.")
