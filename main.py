@@ -112,7 +112,7 @@ async def scrap_businesses(category: str, location: str) -> list[dict]:
             # Rating data
             rating = div.find(*elements.BUSINESS_RATING)
             if rating is not None:
-                rating = rating.text
+                rating = rating.text.strip()
             num_of_reviews = [x for x in div.find(*elements.BUSINESS_REVIEWS_NUM).text if x.isdigit()]
             num_of_reviews = int(''.join(num_of_reviews)) if num_of_reviews else 0
             business_data =  {

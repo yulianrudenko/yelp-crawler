@@ -1,685 +1,640 @@
 {
-    "category": "Restaurants",
-    "location": "New York",
+    "category": "Sport",
+    "location": "LA",
     "count": 20,
     "results": [
         {
-            "name": "Kong Sihk Tong 港食堂",
-            "rating": "4.1 ",
-            "number_of_reviews": 833,
-            "yelp_url": "https://yelp.com/biz/kong-sihk-tong-%E6%B8%AF%E9%A3%9F%E5%A0%82-new-york?osq=Restaurants",
-            "website_url": "https://kongsihktong.com",
-            "reviews": [
-                {
-                    "reviewer_name": "Mack A.",
-                    "reviewer_location": "Fremont, CA",
-                    "date": "Mar 10, 2024"
-                },
-                {
-                    "reviewer_name": "Sarah W.",
-                    "reviewer_location": "Fairfax, VA",
-                    "date": "Mar 19, 2024"
-                },
-                {
-                    "reviewer_name": "Anna D.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Mar 10, 2024"
-                },
-                {
-                    "reviewer_name": "Victoria K.",
-                    "reviewer_location": "Manhattan, New York, NY",
-                    "date": "Mar 7, 2024"
-                },
-                {
-                    "reviewer_name": "Isabella B.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Mar 3, 2024"
-                }
-            ]
-        },
-        {
-            "name": "Soothr",
-            "rating": "4.5 ",
+            "name": "Cosmos Sports",
+            "rating": "4.0",
             "number_of_reviews": 13,
-            "yelp_url": "https://yelp.com/biz/soothr-new-york-2?osq=Restaurants",
-            "website_url": "https://www.soothrnyc.com",
-            "reviews": [
-                {
-                    "reviewer_name": "Amber C.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Mar 17, 2024"
-                },
-                {
-                    "reviewer_name": "Anna D.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Mar 17, 2024"
-                },
-                {
-                    "reviewer_name": "Clarice C.",
-                    "reviewer_location": "San Marino, CA",
-                    "date": "Mar 16, 2024"
-                },
-                {
-                    "reviewer_name": "Alice C.",
-                    "reviewer_location": "Irvine, CA",
-                    "date": "Mar 6, 2024"
-                },
-                {
-                    "reviewer_name": "Amanda W.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Mar 2, 2024"
-                }
-            ]
-        },
-        {
-            "name": "Wah Fung No 1",
-            "rating": "4.5 ",
-            "number_of_reviews": 21,
-            "yelp_url": "https://yelp.com/biz/wah-fung-no-1-new-york-2?osq=Restaurants",
+            "yelp_url": "https://yelp.com/biz/cosmos-sports-los-angeles?osq=Sport",
             "website_url": null,
             "reviews": [
                 {
-                    "reviewer_name": "Nolan F.",
-                    "reviewer_location": "Chicago, IL",
-                    "date": "Mar 12, 2024"
-                },
-                {
-                    "reviewer_name": "Charles T.",
-                    "reviewer_location": "East Stroudsburg, PA",
-                    "date": "Mar 11, 2024"
-                },
-                {
-                    "reviewer_name": "Eric F.",
-                    "reviewer_location": "Manhattan, NY",
-                    "date": "Mar 9, 2024"
-                },
-                {
-                    "reviewer_name": "Joe P.",
-                    "reviewer_location": "Jericho, NY",
-                    "date": "Mar 13, 2024"
-                },
-                {
-                    "reviewer_name": "Michael S.",
-                    "reviewer_location": "Newport Beach, CA",
-                    "date": "Feb 23, 2024"
-                }
-            ]
-        },
-        {
-            "name": "Win Son",
-            "rating": "4.2 ",
-            "number_of_reviews": 786,
-            "yelp_url": "https://yelp.com/biz/win-son-brooklyn-4?osq=Restaurants",
-            "website_url": "https://winsonbrooklyn.com/restaurant",
-            "reviews": [
-                {
-                    "reviewer_name": "Annie W.",
-                    "reviewer_location": "Newport Beach, CA",
-                    "date": "Feb 11, 2024"
-                },
-                {
-                    "reviewer_name": "Junior T.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Feb 5, 2024"
-                },
-                {
-                    "reviewer_name": "Nikki L.",
-                    "reviewer_location": "Manhattan, NY",
-                    "date": "Mar 16, 2024"
-                },
-                {
-                    "reviewer_name": "Elizabeth X.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Jan 25, 2024"
-                },
-                {
-                    "reviewer_name": "Brittanie H.",
-                    "reviewer_location": "Charlotte, NC",
-                    "date": "Jan 15, 2024"
-                }
-            ]
-        },
-        {
-            "name": "Izakaya Fuku",
-            "rating": "4.4 ",
-            "number_of_reviews": 323,
-            "yelp_url": "https://yelp.com/biz/izakaya-fuku-jackson-heights?osq=Restaurants",
-            "website_url": "http://www.fukunyc.com",
-            "reviews": [
-                {
-                    "reviewer_name": "Melody C.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Feb 15, 2024"
-                },
-                {
-                    "reviewer_name": "Susan C.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Feb 13, 2024"
-                },
-                {
-                    "reviewer_name": "Joanna M.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Feb 9, 2024"
-                },
-                {
-                    "reviewer_name": "Rogue H.",
-                    "reviewer_location": "Queens, NY",
-                    "date": "Mar 17, 2024"
-                },
-                {
-                    "reviewer_name": "Tina N.",
-                    "reviewer_location": "Flushing, NY",
-                    "date": "Jan 1, 2024"
-                }
-            ]
-        },
-        {
-            "name": "Joe’s Shanghai",
-            "rating": "3.8 ",
-            "number_of_reviews": 73,
-            "yelp_url": "https://yelp.com/biz/joes-shanghai-new-york-2?osq=Restaurants",
-            "website_url": "http://www.joeshanghairestaurants.com",
-            "reviews": [
-                {
-                    "reviewer_name": "Arkadiusz S.",
-                    "reviewer_location": "Chicago, IL",
-                    "date": "Mar 16, 2024"
-                },
-                {
-                    "reviewer_name": "Aida K.",
+                    "reviewer_name": "Francis S.",
                     "reviewer_location": "Los Angeles, CA",
-                    "date": "Mar 10, 2024"
+                    "date": "Dec 16, 2019"
                 },
                 {
-                    "reviewer_name": "Livia X.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Mar 10, 2024"
+                    "reviewer_name": "John C.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Jun 14, 2019"
                 },
                 {
-                    "reviewer_name": "Deborah P.",
-                    "reviewer_location": "Canton, GA",
+                    "reviewer_name": "Edwin C.",
+                    "reviewer_location": "Woodland Hills, CA",
+                    "date": "Dec 14, 2020"
+                },
+                {
+                    "reviewer_name": "Ernesto C.",
+                    "reviewer_location": "Monterey Park, CA",
+                    "date": "Aug 14, 2021"
+                },
+                {
+                    "reviewer_name": "Brian P.",
+                    "reviewer_location": "Central LA, Los Angeles, CA",
+                    "date": "Jul 18, 2017"
+                }
+            ]
+        },
+        {
+            "name": "Westwood Sporting Goods",
+            "rating": "4.7",
+            "number_of_reviews": 78,
+            "yelp_url": "https://yelp.com/biz/westwood-sporting-goods-los-angeles?osq=Sport",
+            "website_url": null,
+            "reviews": [
+                {
+                    "reviewer_name": "Richie D.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Aug 18, 2021"
+                },
+                {
+                    "reviewer_name": "Patrick R.",
+                    "reviewer_location": "Vista, CA",
+                    "date": "Oct 7, 2023"
+                },
+                {
+                    "reviewer_name": "Jose L.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Jun 14, 2022"
+                },
+                {
+                    "reviewer_name": "Lara W.",
+                    "reviewer_location": "San Francisco, CA",
+                    "date": "Apr 25, 2022"
+                },
+                {
+                    "reviewer_name": "Alex D.",
+                    "reviewer_location": "Beverly Hills, CA",
+                    "date": "Oct 2, 2020"
+                }
+            ]
+        },
+        {
+            "name": "LAces",
+            "rating": "4.6",
+            "number_of_reviews": 113,
+            "yelp_url": "https://yelp.com/biz/laces-los-angeles-4?osq=Sport",
+            "website_url": "http://lacesbar.com",
+            "reviews": [
+                {
+                    "reviewer_name": "Melissa M.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Nov 9, 2023"
+                },
+                {
+                    "reviewer_name": "Josh O.",
+                    "reviewer_location": "Santa Ana, CA",
+                    "date": "Sep 26, 2023"
+                },
+                {
+                    "reviewer_name": "Ricardo M.",
+                    "reviewer_location": "Los Angeles, CA",
                     "date": "Mar 22, 2024"
-                },
-                {
-                    "reviewer_name": "Emily G.",
-                    "reviewer_location": "Queens, NY",
-                    "date": "Feb 27, 2024"
-                }
-            ]
-        },
-        {
-            "name": "Emily",
-            "rating": "4.0 ",
-            "number_of_reviews": 939,
-            "yelp_url": "https://yelp.com/biz/emily-brooklyn-2?osq=Restaurants",
-            "website_url": "https://www.pizzalovesemily.com",
-            "reviews": [
-                {
-                    "reviewer_name": "Andrew M.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Jan 22, 2024"
-                },
-                {
-                    "reviewer_name": "Sarah P.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Dec 29, 2023"
-                },
-                {
-                    "reviewer_name": "Simone H.",
-                    "reviewer_location": "Decatur, GA",
-                    "date": "Jan 20, 2024"
-                },
-                {
-                    "reviewer_name": "Alexandra S.",
-                    "reviewer_location": "Malibu, CA",
-                    "date": "Mar 10, 2024"
-                },
-                {
-                    "reviewer_name": "Samantha H.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Oct 9, 2023"
-                }
-            ]
-        },
-        {
-            "name": "LoveMama",
-            "rating": "4.3 ",
-            "number_of_reviews": 67,
-            "yelp_url": "https://yelp.com/biz/lovemama-new-york?osq=Restaurants",
-            "website_url": "http://lovemamanyc.com",
-            "reviews": [
-                {
-                    "reviewer_name": "Prisca S.",
-                    "reviewer_location": "East Village, Manhattan, NY",
-                    "date": "Feb 26, 2024"
-                },
-                {
-                    "reviewer_name": "Belle Z.",
-                    "reviewer_location": "Lower East Side, New York, NY",
-                    "date": "Feb 7, 2024"
-                },
-                {
-                    "reviewer_name": "Mack A.",
-                    "reviewer_location": "Fremont, CA",
-                    "date": "Mar 2, 2024"
-                },
-                {
-                    "reviewer_name": "Tina T.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Feb 26, 2024"
-                },
-                {
-                    "reviewer_name": "Corliss K.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Feb 20, 2024"
-                }
-            ]
-        },
-        {
-            "name": "ARIARI",
-            "rating": "4.4 ",
-            "number_of_reviews": 278,
-            "yelp_url": "https://yelp.com/biz/ariari-new-york?osq=Restaurants",
-            "website_url": "http://www.ariarinyc.com",
-            "reviews": [
-                {
-                    "reviewer_name": "Nicole N.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Jan 25, 2024"
-                },
-                {
-                    "reviewer_name": "B C.",
-                    "reviewer_location": "Manhattan, New York, NY",
-                    "date": "Jan 22, 2024"
-                },
-                {
-                    "reviewer_name": "Christine C.",
-                    "reviewer_location": "Seattle, WA",
-                    "date": "Mar 22, 2024"
-                },
-                {
-                    "reviewer_name": "Debbie D.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Jan 4, 2024"
-                },
-                {
-                    "reviewer_name": "Adelyn L.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Jan 12, 2024"
-                }
-            ]
-        },
-        {
-            "name": "AlMar",
-            "rating": "3.9 ",
-            "number_of_reviews": 495,
-            "yelp_url": "https://yelp.com/biz/almar-brooklyn-2?osq=Restaurants",
-            "website_url": "http://www.almardumbo.com",
-            "reviews": [
-                {
-                    "reviewer_name": "Andrew C.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Mar 19, 2023"
                 },
                 {
                     "reviewer_name": "David L.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Apr 2, 2023"
+                    "reviewer_location": "Redlands, CA",
+                    "date": "Jun 15, 2023"
                 },
                 {
-                    "reviewer_name": "Farah K.",
-                    "reviewer_location": "Sunnyside, NY",
-                    "date": "Nov 18, 2022"
-                },
-                {
-                    "reviewer_name": "Francesca D.",
-                    "reviewer_location": "Kyle, TX",
-                    "date": "Apr 6, 2023"
-                },
-                {
-                    "reviewer_name": "Alyssa M.",
-                    "reviewer_location": "Eastpointe, MI",
-                    "date": "Jul 15, 2023"
-                }
-            ]
-        },
-        {
-            "name": "Theodora",
-            "rating": "4.6 ",
-            "number_of_reviews": 11,
-            "yelp_url": "https://yelp.com/biz/theodora-brooklyn?osq=Restaurants",
-            "website_url": "http://www.theodoranyc.com",
-            "reviews": [
-                {
-                    "reviewer_name": "Molly T.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Mar 10, 2024"
-                },
-                {
-                    "reviewer_name": "Kimmy U.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Mar 11, 2024"
-                },
-                {
-                    "reviewer_name": "Julie B.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Mar 9, 2024"
-                },
-                {
-                    "reviewer_name": "Ang M.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Feb 24, 2024"
-                },
-                {
-                    "reviewer_name": "Kristi W.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Feb 27, 2024"
-                }
-            ]
-        },
-        {
-            "name": "Sailor",
-            "rating": "4.5 ",
-            "number_of_reviews": 22,
-            "yelp_url": "https://yelp.com/biz/sailor-brooklyn?osq=Restaurants",
-            "website_url": "https://www.sailor.nyc",
-            "reviews": [
-                {
-                    "reviewer_name": "Ang M.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Mar 14, 2024"
-                },
-                {
-                    "reviewer_name": "Julie B.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Feb 11, 2024"
-                },
-                {
-                    "reviewer_name": "Matteo R.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Dec 11, 2023"
-                },
-                {
-                    "reviewer_name": "Rob W.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Dec 15, 2023"
-                },
-                {
-                    "reviewer_name": "Chris B.",
-                    "reviewer_location": "Midtown West, Manhattan, NY",
-                    "date": "Dec 15, 2023"
-                }
-            ]
-        },
-        {
-            "name": "Jack’s Wife Freda",
-            "rating": "3.9 ",
-            "number_of_reviews": 25,
-            "yelp_url": "https://yelp.com/biz/jacks-wife-freda-new-york?osq=Restaurants",
-            "website_url": "http://www.jackswifefreda.com/",
-            "reviews": [
-                {
-                    "reviewer_name": "Hannah C.",
-                    "reviewer_location": "West San Jose, San Jose, CA",
-                    "date": "Mar 13, 2024"
-                },
-                {
-                    "reviewer_name": "Alyssa D.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Mar 9, 2024"
-                },
-                {
-                    "reviewer_name": "Anita W.",
-                    "reviewer_location": "Manhattan, New York, NY",
-                    "date": "Mar 2, 2024"
-                },
-                {
-                    "reviewer_name": "Sana G.",
-                    "reviewer_location": "Niantic, East Lyme, CT",
-                    "date": "Mar 22, 2024"
-                },
-                {
-                    "reviewer_name": "Diego D.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Feb 13, 2024"
-                }
-            ]
-        },
-        {
-            "name": "Izakaya Fuku",
-            "rating": "4.4 ",
-            "number_of_reviews": 323,
-            "yelp_url": "https://yelp.com/biz/izakaya-fuku-jackson-heights?osq=Restaurants",
-            "website_url": "http://www.fukunyc.com",
-            "reviews": [
-                {
-                    "reviewer_name": "Melody C.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Feb 15, 2024"
-                },
-                {
-                    "reviewer_name": "Susan C.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Feb 13, 2024"
-                },
-                {
-                    "reviewer_name": "Joanna M.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Feb 9, 2024"
-                },
-                {
-                    "reviewer_name": "Rogue H.",
-                    "reviewer_location": "Queens, NY",
-                    "date": "Mar 17, 2024"
-                },
-                {
-                    "reviewer_name": "Tina N.",
-                    "reviewer_location": "Flushing, NY",
-                    "date": "Jan 1, 2024"
-                }
-            ]
-        },
-        {
-            "name": "Salma",
-            "rating": "4.6 ",
-            "number_of_reviews": 191,
-            "yelp_url": "https://yelp.com/biz/salma-new-york?osq=Restaurants",
-            "website_url": "http://salmaeastvillage.com",
-            "reviews": [
-                {
-                    "reviewer_name": "Aagdolla G.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Mar 17, 2024"
-                },
-                {
-                    "reviewer_name": "Chantel T.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Dec 19, 2023"
-                },
-                {
-                    "reviewer_name": "Emma P.",
-                    "reviewer_location": "Hoboken, NJ",
-                    "date": "Mar 4, 2024"
-                },
-                {
-                    "reviewer_name": "Morolake T.",
-                    "reviewer_location": "Boulder, CO",
-                    "date": "Feb 24, 2024"
-                },
-                {
-                    "reviewer_name": "Vanessa C.",
-                    "reviewer_location": "Jersey City, NJ",
-                    "date": "Mar 21, 2024"
-                }
-            ]
-        },
-        {
-            "name": "Mama Lee - Williamsburg",
-            "rating": "4.5 ",
-            "number_of_reviews": 51,
-            "yelp_url": "https://yelp.com/biz/mama-lee-williamsburg-brooklyn?osq=Restaurants",
-            "website_url": "https://www.mamaleerestaurant.com",
-            "reviews": [
-                {
-                    "reviewer_name": "Cecilia C.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Mar 15, 2024"
-                },
-                {
-                    "reviewer_name": "Claire M.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Mar 17, 2024"
-                },
-                {
-                    "reviewer_name": "Julie C.",
-                    "reviewer_location": "Queens, NY",
-                    "date": "Feb 26, 2024"
-                },
-                {
-                    "reviewer_name": "Matteo R.",
-                    "reviewer_location": "Brooklyn, NY",
+                    "reviewer_name": "Spicy E.",
+                    "reviewer_location": "Gridley, CA",
                     "date": "Jan 16, 2024"
-                },
-                {
-                    "reviewer_name": "Ann L.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Jan 29, 2024"
                 }
             ]
         },
         {
-            "name": "Rosticceria Evelina",
-            "rating": "4.7 ",
-            "number_of_reviews": 9,
-            "yelp_url": "https://yelp.com/biz/rosticceria-evelina-brooklyn?osq=Restaurants",
-            "website_url": "https://www.rosticceriaevelina.com",
+            "name": "Sports Empire",
+            "rating": "5.0",
+            "number_of_reviews": 4,
+            "yelp_url": "https://yelp.com/biz/sports-empire-burbank?osq=Sport",
+            "website_url": "https://reflectionssports.com",
             "reviews": [
                 {
-                    "reviewer_name": "Blake B.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Jan 14, 2024"
+                    "reviewer_name": "Jo S.",
+                    "reviewer_location": "North Hollywood, CA",
+                    "date": "Nov 9, 2022"
                 },
                 {
-                    "reviewer_name": "Kelsey W.",
-                    "reviewer_location": "San Francisco, CA",
-                    "date": "Jan 14, 2024"
+                    "reviewer_name": "Sheryl M.",
+                    "reviewer_location": "Newport Beach, CA",
+                    "date": "Dec 2, 2023"
                 },
                 {
-                    "reviewer_name": "Rob W.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Jan 10, 2024"
-                },
-                {
-                    "reviewer_name": "Celeste S.",
-                    "reviewer_location": "San Francisco, CA",
-                    "date": "Mar 23, 2024"
-                },
-                {
-                    "reviewer_name": "Food Jerk X.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Mar 9, 2024"
+                    "reviewer_name": "Eric M.",
+                    "reviewer_location": "South Montebello, Montebello, CA",
+                    "date": "Jan 17, 2023"
                 }
             ]
         },
         {
-            "name": "Mắm",
-            "rating": "4.3 ",
-            "number_of_reviews": 64,
-            "yelp_url": "https://yelp.com/biz/m%E1%BA%AFm-new-york-2?osq=Restaurants",
+            "name": "DICK’S Sporting Goods",
+            "rating": "2.7",
+            "number_of_reviews": 182,
+            "yelp_url": "https://yelp.com/biz/dicks-sporting-goods-glendale-2?osq=Sport",
+            "website_url": "https://stores.dickssportinggoods.com/ca/glendale/1223/",
+            "reviews": [
+                {
+                    "reviewer_name": "Justin D.",
+                    "reviewer_location": "La Crescenta, CA",
+                    "date": "Feb 3, 2024"
+                },
+                {
+                    "reviewer_name": "Peter X.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Sep 10, 2023"
+                },
+                {
+                    "reviewer_name": "Cynthia P.",
+                    "reviewer_location": "Glendale, CA",
+                    "date": "Jan 7, 2023"
+                },
+                {
+                    "reviewer_name": "Anabel M.",
+                    "reviewer_location": "Boyle Heights, Los Angeles, CA",
+                    "date": "Jul 30, 2023"
+                },
+                {
+                    "reviewer_name": "Rebecca F.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Jan 5, 2024"
+                }
+            ]
+        },
+        {
+            "name": "SportS Center Hollywood",
+            "rating": "3.5",
+            "number_of_reviews": 2,
+            "yelp_url": "https://yelp.com/biz/sports-center-hollywood-los-angeles?osq=Sport",
+            "website_url": "https://sportscentertrend.com",
+            "reviews": [
+                {
+                    "reviewer_name": "Brad T.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Feb 2, 2020"
+                }
+            ]
+        },
+        {
+            "name": "Espot Gaming Lab - Espot Entertainment",
+            "rating": "4.4",
+            "number_of_reviews": 148,
+            "yelp_url": "https://yelp.com/biz/espot-gaming-lab-espot-entertainment-el-monte-5?osq=Sport",
             "website_url": null,
             "reviews": [
                 {
-                    "reviewer_name": "Steven Z.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Mar 19, 2024"
+                    "reviewer_name": "Troy Y.",
+                    "reviewer_location": "CA, CA",
+                    "date": "Mar 8, 2024"
                 },
                 {
-                    "reviewer_name": "Charles W.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Feb 20, 2024"
+                    "reviewer_name": "Mai H.",
+                    "reviewer_location": "Ontario, CA",
+                    "date": "Apr 2, 2023"
                 },
                 {
-                    "reviewer_name": "Vicki C.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Nov 4, 2023"
+                    "reviewer_name": "Junpeng C.",
+                    "reviewer_location": "Monmouth, OR",
+                    "date": "Apr 17, 2023"
                 },
                 {
-                    "reviewer_name": "Sylvie P.",
-                    "reviewer_location": "San Francisco, CA",
-                    "date": "Oct 22, 2023"
+                    "reviewer_name": "Moon P.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Jun 19, 2023"
                 },
                 {
-                    "reviewer_name": "Esther C.",
-                    "reviewer_location": "Chicago, IL",
-                    "date": "Aug 9, 2023"
+                    "reviewer_name": "Ivy L.",
+                    "reviewer_location": "Alhambra, Los Angeles, CA",
+                    "date": "Jun 6, 2022"
                 }
             ]
         },
         {
-            "name": "The Noble",
-            "rating": "5.0 ",
-            "number_of_reviews": 6,
-            "yelp_url": "https://yelp.com/biz/the-noble-brooklyn-2?osq=Restaurants",
-            "website_url": "https://www.thenoblebk.com",
+            "name": "33 Taps-Silver Lake",
+            "rating": "4.2",
+            "number_of_reviews": 642,
+            "yelp_url": "https://yelp.com/biz/33-taps-silver-lake-los-angeles-3?osq=Sport",
+            "website_url": "http://www.eatdrink33.com",
             "reviews": [
                 {
-                    "reviewer_name": "Hiral P.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Feb 23, 2024"
+                    "reviewer_name": "Stan C.",
+                    "reviewer_location": "Beverly Hills, CA",
+                    "date": "Jan 8, 2024"
                 },
                 {
-                    "reviewer_name": "Mary M.",
-                    "reviewer_location": "Staten Island, Staten Island, NY",
-                    "date": "Mar 12, 2024"
+                    "reviewer_name": "Beth S.",
+                    "reviewer_location": "Phoenix, AZ",
+                    "date": "Mar 1, 2024"
                 },
                 {
-                    "reviewer_name": "Julia P.",
-                    "reviewer_location": "Columbus, OH",
-                    "date": "Dec 15, 2023"
+                    "reviewer_name": "Will X.",
+                    "reviewer_location": "Santa Monica, CA",
+                    "date": "Feb 26, 2024"
                 },
                 {
-                    "reviewer_name": "Agi ..",
-                    "reviewer_location": "Brooklyn, NY",
+                    "reviewer_name": "Sue M.",
+                    "reviewer_location": "Sierra Madre, CA",
+                    "date": "Jan 20, 2024"
+                },
+                {
+                    "reviewer_name": "Chris Z.",
+                    "reviewer_location": "Moreno Valley, CA",
+                    "date": "Mar 22, 2024"
+                }
+            ]
+        },
+        {
+            "name": "Play it Again Sports - Sporting Goods",
+            "rating": "4.3",
+            "number_of_reviews": 154,
+            "yelp_url": "https://yelp.com/biz/play-it-again-sports-sporting-goods-pasadena-2?osq=Sport",
+            "website_url": "http://www.playitagainsports-pasadena.com",
+            "reviews": [
+                {
+                    "reviewer_name": "Armando M.",
+                    "reviewer_location": "Pico Rivera, CA",
                     "date": "Dec 3, 2023"
                 },
                 {
-                    "reviewer_name": "Basak S.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Nov 29, 2023"
+                    "reviewer_name": "Raymond D.",
+                    "reviewer_location": "Pasadena, CA",
+                    "date": "Apr 5, 2023"
+                },
+                {
+                    "reviewer_name": "20psibri ..",
+                    "reviewer_location": "Pasadena, CA",
+                    "date": "Jan 11, 2024"
+                },
+                {
+                    "reviewer_name": "Salomon M.",
+                    "reviewer_location": "La Verne, CA",
+                    "date": "Dec 15, 2023"
+                },
+                {
+                    "reviewer_name": "Paul S.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Jul 27, 2023"
                 }
             ]
         },
         {
-            "name": "Barbalu - Brooklyn",
-            "rating": "4.4 ",
-            "number_of_reviews": 96,
-            "yelp_url": "https://yelp.com/biz/barbalu-brooklyn-brooklyn?osq=Restaurants",
-            "website_url": "http://barbalu.com",
+            "name": "Pro Stop Sportswear",
+            "rating": "4.8",
+            "number_of_reviews": 18,
+            "yelp_url": "https://yelp.com/biz/pro-stop-sportswear-maywood?osq=Sport",
+            "website_url": null,
             "reviews": [
                 {
-                    "reviewer_name": "Stephanie S.",
-                    "reviewer_location": "Brooklyn, Brooklyn, NY",
-                    "date": "Jan 10, 2024"
+                    "reviewer_name": "Carl Y.",
+                    "reviewer_location": "East Los Angeles, CA",
+                    "date": "Feb 27, 2024"
                 },
                 {
-                    "reviewer_name": "James B.",
-                    "reviewer_location": "Manhattan, New York, NY",
-                    "date": "Dec 17, 2023"
+                    "reviewer_name": "alex b.",
+                    "reviewer_location": "Downey, CA",
+                    "date": "Apr 29, 2022"
                 },
                 {
-                    "reviewer_name": "Tiana M.",
-                    "reviewer_location": "Greenbush, Madison, WI",
-                    "date": "Feb 17, 2024"
+                    "reviewer_name": "Senia S.",
+                    "reviewer_location": "Norwalk, CA",
+                    "date": "May 23, 2023"
                 },
                 {
-                    "reviewer_name": "Christine H.",
-                    "reviewer_location": "New York, NY",
-                    "date": "Nov 13, 2023"
+                    "reviewer_name": "Ruben V.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Jul 8, 2022"
                 },
                 {
-                    "reviewer_name": "Cheyenne B.",
-                    "reviewer_location": "Brooklyn, NY",
-                    "date": "Dec 6, 2023"
+                    "reviewer_name": "M C.",
+                    "reviewer_location": "Whittier, CA",
+                    "date": "Oct 31, 2022"
+                }
+            ]
+        },
+        {
+            "name": "3rd Base LA",
+            "rating": "3.8",
+            "number_of_reviews": 462,
+            "yelp_url": "https://yelp.com/biz/3rd-base-la-los-angeles?osq=Sport",
+            "website_url": "https://www.3rdbasela.com",
+            "reviews": [
+                {
+                    "reviewer_name": "Alejandra P.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Dec 15, 2023"
+                },
+                {
+                    "reviewer_name": "Rochelle P.",
+                    "reviewer_location": "Canoga Park, CA",
+                    "date": "Nov 30, 2023"
+                },
+                {
+                    "reviewer_name": "Marshay D.",
+                    "reviewer_location": "Pasadena, CA",
+                    "date": "Nov 27, 2023"
+                },
+                {
+                    "reviewer_name": "Preston I.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Dec 21, 2023"
+                },
+                {
+                    "reviewer_name": "Sulagaeva M.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Feb 2, 2024"
+                }
+            ]
+        },
+        {
+            "name": "Hyundae Ping Pong Club",
+            "rating": "4.8",
+            "number_of_reviews": 12,
+            "yelp_url": "https://yelp.com/biz/hyundae-ping-pong-club-los-angeles?osq=Sport",
+            "website_url": null,
+            "reviews": [
+                {
+                    "reviewer_name": "Namir K.",
+                    "reviewer_location": "Pasadena, CA",
+                    "date": "Jul 14, 2019"
+                },
+                {
+                    "reviewer_name": "Henna C.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Jul 17, 2019"
+                },
+                {
+                    "reviewer_name": "Ryan H.",
+                    "reviewer_location": "Washington, DC",
+                    "date": "Oct 30, 2017"
+                },
+                {
+                    "reviewer_name": "Natalie W.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Jul 8, 2019"
+                },
+                {
+                    "reviewer_name": "Hiroe I.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Apr 28, 2016"
+                }
+            ]
+        },
+        {
+            "name": "Joe’s Sports World",
+            "rating": "5.0",
+            "number_of_reviews": 3,
+            "yelp_url": "https://yelp.com/biz/joes-sports-world-los-angeles?osq=Sport",
+            "website_url": "https://joessportsworld.myshopify.com",
+            "reviews": [
+                {
+                    "reviewer_name": "Luis T.",
+                    "reviewer_location": "Norwalk, CA",
+                    "date": "Nov 10, 2020"
+                },
+                {
+                    "reviewer_name": "Jose Luis M.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Dec 24, 2013"
+                }
+            ]
+        },
+        {
+            "name": "Road Runner Sports",
+            "rating": "4.5",
+            "number_of_reviews": 506,
+            "yelp_url": "https://yelp.com/biz/road-runner-sports-studio-city?osq=Sport",
+            "website_url": "http://www.roadrunnersports.com/rrs/content/content1.jsp?contentId=18100163",
+            "reviews": [
+                {
+                    "reviewer_name": "Grant M.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Dec 11, 2023"
+                },
+                {
+                    "reviewer_name": "Susan w.",
+                    "reviewer_location": "UT, UT",
+                    "date": "Nov 25, 2023"
+                },
+                {
+                    "reviewer_name": "Keaton G.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Jul 23, 2023"
+                },
+                {
+                    "reviewer_name": "Maya M.",
+                    "reviewer_location": "Santa Clarita, CA",
+                    "date": "Mar 1, 2024"
+                },
+                {
+                    "reviewer_name": "Lauren L.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Sep 9, 2023"
+                }
+            ]
+        },
+        {
+            "name": "Hollywood Boulders",
+            "rating": "4.4",
+            "number_of_reviews": 92,
+            "yelp_url": "https://yelp.com/biz/hollywood-boulders-los-angeles?osq=Sport",
+            "website_url": "https://touchstoneclimbing.com/hollywood-boulders",
+            "reviews": [
+                {
+                    "reviewer_name": "Rob D.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Mar 12, 2024"
+                },
+                {
+                    "reviewer_name": "Alexander Y.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Nov 1, 2023"
+                },
+                {
+                    "reviewer_name": "Bayan M.",
+                    "reviewer_location": "Hollywood, Los Angeles, CA",
+                    "date": "Aug 2, 2023"
+                },
+                {
+                    "reviewer_name": "Linda L.",
+                    "reviewer_location": "Monterey Park, CA",
+                    "date": "Mar 8, 2023"
+                },
+                {
+                    "reviewer_name": "Paul S.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Jun 3, 2022"
+                }
+            ]
+        },
+        {
+            "name": "Joxer Daly’s",
+            "rating": "3.8",
+            "number_of_reviews": 455,
+            "yelp_url": "https://yelp.com/biz/joxer-dalys-culver-city?osq=Sport",
+            "website_url": null,
+            "reviews": [
+                {
+                    "reviewer_name": "Franklin M.",
+                    "reviewer_location": "Alhambra, CA",
+                    "date": "Feb 5, 2024"
+                },
+                {
+                    "reviewer_name": "Robert H.",
+                    "reviewer_location": "San Francisco, CA",
+                    "date": "Jan 8, 2024"
+                },
+                {
+                    "reviewer_name": "Mark G.",
+                    "reviewer_location": "Long Beach, CA",
+                    "date": "Feb 22, 2023"
+                },
+                {
+                    "reviewer_name": "April C.",
+                    "reviewer_location": "San Fernando Valley, CA",
+                    "date": "Feb 21, 2023"
+                },
+                {
+                    "reviewer_name": "Michael O.",
+                    "reviewer_location": "Valle Lindo, CA",
+                    "date": "Apr 8, 2023"
+                }
+            ]
+        },
+        {
+            "name": "Prociety",
+            "rating": "5.0",
+            "number_of_reviews": 6,
+            "yelp_url": "https://yelp.com/biz/prociety-los-angeles?osq=Sport",
+            "website_url": "http://www.procietyshop.com",
+            "reviews": [
+                {
+                    "reviewer_name": "Jarell B.",
+                    "reviewer_location": "Valley Hi / North Laguna, Sacramento, CA",
+                    "date": "Jul 12, 2023"
+                },
+                {
+                    "reviewer_name": "Joann S.",
+                    "reviewer_location": "Buena Park, CA",
+                    "date": "Jul 25, 2022"
+                },
+                {
+                    "reviewer_name": "Peter H.",
+                    "reviewer_location": "Brea, CA",
+                    "date": "Aug 12, 2022"
+                },
+                {
+                    "reviewer_name": "Jose Arturo T.",
+                    "reviewer_location": "Paramount, CA",
+                    "date": "Aug 12, 2022"
+                },
+                {
+                    "reviewer_name": "David P.",
+                    "reviewer_location": "Fullerton, CA",
+                    "date": "Jul 27, 2022"
+                }
+            ]
+        },
+        {
+            "name": "Sportie LA",
+            "rating": "3.9",
+            "number_of_reviews": 156,
+            "yelp_url": "https://yelp.com/biz/sportie-la-los-angeles?osq=Sport",
+            "website_url": "http://www.sportiela.com",
+            "reviews": [
+                {
+                    "reviewer_name": "Jenny R.",
+                    "reviewer_location": "Central LA, West Hollywood, CA",
+                    "date": "Oct 12, 2023"
+                },
+                {
+                    "reviewer_name": "Darrel K.",
+                    "reviewer_location": "San Gabriel, CA",
+                    "date": "Jul 1, 2022"
+                },
+                {
+                    "reviewer_name": "Mando M.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Jul 2, 2022"
+                },
+                {
+                    "reviewer_name": "Vita R.",
+                    "reviewer_location": "West Hills, CA",
+                    "date": "Oct 21, 2018"
+                },
+                {
+                    "reviewer_name": "Frank B.",
+                    "reviewer_location": "Hollywood, Los Angeles, CA",
+                    "date": "May 18, 2014"
+                }
+            ]
+        },
+        {
+            "name": "Fanzz",
+            "rating": "3.8",
+            "number_of_reviews": 12,
+            "yelp_url": "https://yelp.com/biz/fanzz-carson?osq=Sport",
+            "website_url": null,
+            "reviews": [
+                {
+                    "reviewer_name": "SesilU G.",
+                    "reviewer_location": "Carson, CA",
+                    "date": "Sep 30, 2018"
+                },
+                {
+                    "reviewer_name": "Karen S.",
+                    "reviewer_location": "Lakewood, CA",
+                    "date": "Jan 18, 2019"
+                },
+                {
+                    "reviewer_name": "Marc-Jeffrey B.",
+                    "reviewer_location": "Cerritos, CA",
+                    "date": "Apr 17, 2018"
+                },
+                {
+                    "reviewer_name": "Joel R.",
+                    "reviewer_location": "Long Beach, CA",
+                    "date": "May 3, 2019"
+                },
+                {
+                    "reviewer_name": "Adam W.",
+                    "reviewer_location": "Hermosa Beach, CA",
+                    "date": "May 11, 2018"
+                }
+            ]
+        },
+        {
+            "name": "The Naughty Pig",
+            "rating": "4.5",
+            "number_of_reviews": 133,
+            "yelp_url": "https://yelp.com/biz/the-naughty-pig-west-hollywood-2?osq=Sport",
+            "website_url": "https://thenaughtypig.com",
+            "reviews": [
+                {
+                    "reviewer_name": "Anthony T.",
+                    "reviewer_location": "North Hollywood, CA",
+                    "date": "Dec 11, 2023"
+                },
+                {
+                    "reviewer_name": "Mona B.",
+                    "reviewer_location": "Los Angeles, CA",
+                    "date": "Mar 17, 2024"
+                },
+                {
+                    "reviewer_name": "Amber B.",
+                    "reviewer_location": "Houston, TX",
+                    "date": "Feb 3, 2024"
+                },
+                {
+                    "reviewer_name": "Stephanie Y.",
+                    "reviewer_location": "Newbury Park, CA",
+                    "date": "Feb 12, 2024"
+                },
+                {
+                    "reviewer_name": "Arella A.",
+                    "reviewer_location": "Central LA, West Hollywood, CA",
+                    "date": "Mar 12, 2024"
                 }
             ]
         }
