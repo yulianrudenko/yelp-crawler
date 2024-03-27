@@ -1,6 +1,7 @@
 import json
 import asyncio
 import aiohttp
+import platform
 
 from urllib.parse import urlparse
 from urllib.parse import parse_qs
@@ -92,12 +93,17 @@ async def scrap_businesses(category: str, location: str) -> list[dict]:
         if loop_step >= SCRAP_PAGES_LIMIT:
             break
         loop_step += 1
-        soup_business_list = await soup_parse(
-            url=f"{BASE_URL}/search", 
-            find_desc=category,
-            find_loc=location,
-            start=loop_step*ELEMENTS_PER_PAGE
-        )
+
+        try:
+            soup_business_list = await soup_parse(
+                url=f"{BASE_URL}/search", 
+                find_desc=category,
+                find_loc=location,
+                start=loop_step*ELEMENTS_PER_PAGE
+            )
+        except:
+            raise SystemError("Please try again as Yelp rejected request")
+
         pagination_btn = soup_business_list.find(*elements.NEXT_PAGE_BTN)
         is_last_page = pagination_btn.has_attr("disabled")
 
@@ -142,11 +148,15 @@ async def main():
     businesses_data = await scrap_businesses(category=category, location=location)
 
     # Write data to JSON file
-    with open(RESULTS_FILE_NAME, "w") as file:
+    with open(RESULTS_FILE_NAME, "w", encoding="utf-8") as file:
         json.dump(businesses_data, file, ensure_ascii=False, indent=4)
     print(f"Results successfully saved to {RESULTS_FILE_NAME}")
     print(f"Program execution took: {perf_counter() - start} seconds.")
 
 
 if __name__ == "__main__":
+    os_name = platform.system()
+    if os_name.lower() == "windows":
+        # Ensure async code will work on Windows OS
+        asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
     asyncio.run(main())
