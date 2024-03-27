@@ -12,9 +12,7 @@ Run:
 python main.py
 ```
 
-Example output:
-```
-Results successfully saved to yelp_businesses.json
-Program execution took: 12.790071258001262 seconds.
-```
+Usage example:
+![Screenshot from 2024-03-27 01-10-57](https://github.com/yulianrudenko/yelp-crawler/assets/88377969/68316620-ff34-4819-9473-cc0cd992b940)
+
 The results will be written to a JSON file.
